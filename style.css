@@ -1,0 +1,33 @@
+@charset "utf-8";
+
+/* CSS Document */
+#paw-authors a{
+    color: #6FA5DB;
+    line-height: 16px;
+    text-decoration: none;	
+}
+#paw-authors div a.paw-parent{
+    background-position: left center;
+    background-repeat: no-repeat;
+    padding: 0 0 0 16px;
+	line-height:22px;
+	cursor:pointer;
+}
+#paw-authors div.paw-closed a.paw-parent{
+    background-image: url("nolines_plus.gif");
+}
+#paw-authors div a.paw-parent span{
+	color: #989898;
+}
+#paw-authors div.paw-opened a.paw-parent{
+    background-image: url("nolines_minus.gif");
+}
+#paw-authors div ul{
+	margin-left:16px;
+}
+#paw-authors div.paw-opened ul{
+	display:block;
+}
+#paw-authors div.paw-closed ul{
+	display:none;
+}
