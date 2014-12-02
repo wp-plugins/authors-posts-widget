@@ -1,6 +1,6 @@
 ﻿=== Authors Posts Widget ===
 
-Contributors: Fahad Mahmood
+Contributors: fahadmahmood
 Donate link: http://goo.gl/GHX5N
 Tags: posts by authors, all posts widget, authors posts widget, authors posts
 
